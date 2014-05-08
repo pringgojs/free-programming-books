@@ -83,6 +83,7 @@
 ####Misceláneos
 * [97 cosas que todo programador debería saber](http://97cosas.com/programador)
 * [El camino a un mejor programador](http://emanchado.github.io/camino-mejor-programador/)
+* [Videojuegos Multiplataforma con OpenFL](http://www.openflbook.com/)
 
 
 ####Paradigmas de Programación
@@ -146,6 +147,7 @@
 ###Java
 * [Aprendiendo Java](http://www.compunauta.com/forums/linux/programacion/java/AprendiendoJava.pdf) (PDF)
 * [Arquitectura Java Sólida](http://www.arquitecturajava.com/)
+* [Desarrollo de proyectos informáticos con Java](http://www3.uji.es/~belfern/pdf/libroJavaConTapa.pdf) (PDF)
 * [Notas de Introducción al Lenguaje de Programación Java](http://www.matematicas.unam.mx/jloa/publicaciones/introduccionJava.pdf), por Jorge L. Ortega Arjona, UNAM (PDF)
 * [Pensando la computación como un científico (con Java)](http://www.ungs.edu.ar/areas/publicaciones/476/pensando-la-computacion-como-un-cientifico.html)
 * [Programación Orientada a Objetos en Java](http://fcasua.contad.unam.mx/apuntes/interiores/docs/98/opt/java.pdf) (PDF)
@@ -175,7 +177,6 @@
 ###.NET (C# / Visual Studio)
 * [El lenguaje de programación C#](http://dis.um.es/~bmoros/privado/bibliografia/LibroCsharp.pdf) (PDF)
 * [Guía de Arquitectura N-capas Orientadas al Dominio](http://msdn.microsoft.com/es-es/architecture/default.aspx)
-* [Introducción a C#](http://zarza.usal.es/~fgarcia/docencia/poo/04-05/Trabajos/C_Sharp.pdf) (PDF)
 
 
 
@@ -197,7 +198,6 @@
 * [Introducción a la programación con Python](http://repositori.uji.es/xmlui/bitstream/handle/10234/24305/s23.pdf) (PDF)
 * [Introducción a Programando con Python](http://opentechschool.github.io/python-beginners/es_CL/)
 * [Python instantáneo](http://www.arrakis.es/~rapto/AprendaPython.html)
-* [Python no muerde](http://nomuerde.netmanagers.com.ar/)
 * [Python para ciencia e ingeniería](https://github.com/mgaitan/python-ingenieria)
 * [Python para todos](https://launchpadlibrarian.net/18980633/Python%20para%20todos.pdf) (PDF)
 * [Python para principiantes (PDF)](http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-python.pdf) [(HTML)](http://librosweb.es/libro/python/)
@@ -237,5 +237,7 @@
 
 
 ###SQL
+* [El lenguaje SQL](http://ocw.uoc.edu/computer-science-technology-and-multimedia/bases-de-datos/bases-de-datos/P06_M2109_02149.pdf)
+* [Manual de gestión de base de datos](http://www.jorgesanchez.net/bd/gbd2012.pdf)
 * [Tutorial de SQL](http://www.desarrolloweb.com/manuales/9/)
 

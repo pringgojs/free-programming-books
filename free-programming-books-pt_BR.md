@@ -8,15 +8,18 @@
 * [HTML / CSS](#html--css)
 * [Java](#java)
 * [JavaScript](#javascript)
+* [PHP](#php)
 * [LaTeX](#latex)
 * [Python](#python)
 * [Ruby](#ruby)
 * [Shell Script](#shell)
-
+* [Lua](#lua)
 
 ###C
 * [Introdução a Programação](https://github.com/edusantana/introducao-a-programacao-livro/releases) - livro adotado na UFPB.
-
+* [Projeto de Algoritmos em C](http://www.ime.usp.br/~pf/algoritmos/).
+* [Introdução ao Curso de C ](http://www.ic.unicamp.br/~mc102/introducao-ao-curso-de-c.html).
+* [O Fantástico Mundo da Linguagem C] (https://fiorix.wordpress.com/2014/04/12/livro-sobre-c-e-linux/)
 
 ###Engenharia de Software
 ####Metodologias de Desenvolvimento de Software
@@ -26,8 +29,10 @@
 
 
 ###Git
+* [Aprendendo Git](http://www.slideshare.net/bismarckjunior/aprendendo-git)
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/pt_br/)
 * [Pro Git](http://git-scm.com/book/pt-br)
+
 
 ###Grunt
 * [Grunt - Voce deveria estar usando](http://tableless.com.br/grunt-voce-deveria-estar-usando/)
@@ -54,7 +59,11 @@
 * [Eloquent Javascript PT-BR](https://leanpub.com/eloquentejavascript)
 * [Fundamentos de jQuery](http://herberthamaral.com/posts/2013-02-25-sobre-o-jquery-fundamentals.html)
 * [Guia Rápido de Desenvolvimento para Firefox OS: Criando apps com HTML5 para o Firefox OS](https://leanpub.com/guiarapidofirefoxos)
+* [Node.js para Leigos](http://udgwebdev.com/nodejs)
+* [Tudo sobre Meteor](http://udgwebdev.com/meteor)
 
+###Php
+* [PHP](http://www.etelg.com.br/paginaete/downloads/informatica/php.pdf)
 
 ###LaTeX
 * [Introdução ao LaTeX 2 - Ou LaTeX 2 em 105 minutos](http://ctan.org/pkg/lshort-portuguese-br)
@@ -77,3 +86,6 @@
 
 ###Shell
 * [Introdução ao Shell Script](http://aurelio.net/shell/apostila-introducao-shell.pdf)
+
+###Lua
+* [Manual de Referência de Lua 5.2](http://www.lua.org/manual/5.2/pt/)

@@ -11,9 +11,9 @@ Moved to GitHub for collaborative updating and for the site mentioned above.
 It's [easy](https://github.com/vhf/free-programming-books/wiki/Contribution). Please read [CONTRIBUTING](/CONTRIBUTING.md).
 - [Fork](https://help.github.com/articles/fork-a-repo)
 - Read the [TODO](/TODO.md) file(Adding new books is our #1 priority, but things like Alphabetizing are important, too.)
-- Edit (we prefer multiple small commits rather than one large change)
+- [Edit](https://github.com/vhf/free-programming-books/edit/master/free-programming-books.md) (we prefer multiple small commits rather than one large change)
 - [Send a PR](https://help.github.com/articles/using-pull-requests)
-- be part of a project that over 20,000 people starred in 5 months. ;)
+- be part of a project that over 25,000 people starred in 7 months. ;)
 
 **Again, unlike other projects, we prefer multiple small commits rather than one large change in a pull request - it's fine to have one PR, but please make sure your title reflects what you're changing**, thanks.
 
@@ -42,6 +42,7 @@ It's [easy](https://github.com/vhf/free-programming-books/wiki/Contribution). Pl
 + Polish: [github](/free-programming-books-pl.md)
 + Portuguese (Brazil): [github](/free-programming-books-pt_BR.md)
 + Portuguese (Portugal): [github](/free-programming-books-pt_PT.md)
++ Romanian (Romania): [github](/free-programming-books-ro.md)
 + Russian: [github](/free-programming-books-ru.md)
 + Turkish: [github](/free-programming-books-tr.md)
 + Spanish: [github](/free-programming-books-es.md)

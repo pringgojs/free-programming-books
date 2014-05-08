@@ -89,7 +89,6 @@
 * [EJB 3 für Umsteiger: Neuerungen und Änderungen gegenüber dem EJB-2.x-Standard](http://bsd.de/e3fu/umfrage.html) - Heiko W. Rupp
 * [Java 7 Mehr als eine Insel](http://openbook.galileocomputing.de/java7/)
 * [Java ist auch eine Insel](http://openbook.galileocomputing.de/javainsel/)
-* [JSFAtWork, JSF 2.0 und Apache MyFaces](http://jsfatwork.irian.at/book_de/)
 * [Programmieren Java: Einführung](http://www.highscore.de/java/einfuehrung/)
 * [Programmieren Java: Aufbau](http://www.highscore.de/java/aufbau/)
 
@@ -129,7 +128,6 @@
 
 ###Ruby
 * [Programmieren mit Ruby](http://approximity.com/rubybuch2/)
-* [Ruby on Rails 2](http://openbook.galileocomputing.de/ruby_on_rails/)
 
 
 ###Ruby on Rails
@@ -137,6 +135,7 @@
 * [Praxiswissen Ruby On Rails](http://examples.oreilly.de/openbooks/pdf_rubyonrailsbasger.pdf) [PDF]
 * [Rails Kochbuch](http://examples.oreilly.de/openbooks/pdf_railsckbkger.pdf) [PDF]
 * [Ruby on Rails 2](http://openbook.galileocomputing.de/ruby_on_rails/)
+* [Ruby on Rails 3.2 für Ein-, Um- und Quereinsteiger](http://ruby-auf-schienen.de/3.2/)
 
 
 ###Scilab

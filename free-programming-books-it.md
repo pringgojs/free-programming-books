@@ -27,7 +27,6 @@
 
 ####Algoritmi e Strutture Dati
 * [Dispense del Corso di Algoritmi e Strutture Dati](http://www.dmi.unict.it/nicosia/lectures/programmazione-scientifica/algo.pdf)
-* [Algoritmi e Strutture Dati](http://homes.di.unimi.it/~bertoni/Algoritmi%20e%20Strutture%20Dati.pdf)
 
 
 ###Android
@@ -60,7 +59,7 @@
 
 
 ###Javascript
-*[Guida di riferimento](http://www.econ.uniurb.it/laerte/Reti_Internet_1/materiale/JavaScript.pdf)
+* [Guida di riferimento](http://www.econ.uniurb.it/laerte/Reti_Internet_1/materiale/JavaScript.pdf)
 
 
 ###LaTeX
@@ -94,8 +93,8 @@
 
 
 ###Ruby
-*[Introduzione a Ruby](http://tesi.cab.unipd.it/22937/1/Tesina_-_Introduzione_a_Ruby.pdf)
-*[Ruby User Guide](http://ruby-it.org/rug_it.zip)
+* [Introduzione a Ruby](http://tesi.cab.unipd.it/22937/1/Tesina_-_Introduzione_a_Ruby.pdf)
+* [Ruby User Guide](http://ruby-it.org/rug_it.zip)
 
 
 ###Visual Basic
